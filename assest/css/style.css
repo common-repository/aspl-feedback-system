@@ -1,0 +1,106 @@
+.question.wp-list-table thead tr,
+.add_update_template_page .question-data thead tr{
+	background-color: #0073aa;
+	color: #fff;
+}
+.question.wp-list-table thead tr th{
+	color: #fff;
+}
+form.update-question .add-answer-btn{
+	border: 1px solid;
+	padding: 10px;
+	background-color: #0073aa;
+	color: #fff;
+	width: 85px;
+    text-align: center;
+    cursor: pointer;
+}
+form.update-question .answer-list .answer-line{
+	margin-bottom: 10px;
+}
+.single-question .error-msg{
+	color: red;
+}
+.fixed.customer-feedback-data thead th{
+	background-color: #0073aa;
+	color: #fff;
+}
+/* Add New Template css */
+
+.add_new_template_page,
+.add_update_template_page{
+	/*background-color: white;*/
+	padding: 20px 20px;
+	border-radius: 20px;
+	border: 2px solid #0073aa;
+}
+.add_new_template_page h1,
+.add_update_template_page h1{
+	width: 100%;
+	border-radius: 10px;
+	padding: 10px 0px;
+	text-align: center;
+	font-weight: 900;
+	color: white;
+	background-color:#0073aa; 
+}
+.add_new_template_page .form-table,
+.add_update_template_page .form-table{
+	width: 96%;
+	margin: 0px auto 0px auto;
+}
+.add_new_template_page table.widefat,
+.add_update_template_page table.widefat{
+	border:none;
+}/*question-data*/
+.add_new_template_page .question.wp-list-table thead tr,
+.add_update_template_page .question-data thead tr{
+	padding: 10px 0px;
+}
+.add_new_template_page .question.wp-list-table thead tr th{
+	border-radius: 7px;
+	font-weight: 900;
+	width: 100%;
+}
+.add_update_template_page .question-data.wp-list-table thead tr td{
+	border-radius: 7px;
+	font-weight: 900;
+	width: 100%;	
+	color: white;
+}
+.add_new_template_page .search-result{
+	max-height: 200px;
+    overflow-y: scroll;
+    max-width: 300px;
+}
+.add_new_template_page .search-result .row{
+	padding: 10px 10px;
+	border-bottom: 1px solid #1373aa; 
+    cursor: pointer;
+}
+.add_new_template_page .search-result .row:hover{
+	background-color: #1373aa;
+	color: white; 
+}
+.back-to-template{
+	float: right;
+	width: 50px;
+	padding: 10px 10px;
+	border:1px solid #1373aa;
+	text-align: center;
+	margin-top:10px;
+	border-radius: 10px;
+}
+.aspl_feed_a_button{
+	padding: 5px 5px;
+	border:1px solid;
+	border-radius: 5px;
+}
+
+/*End Add New Template*/
+
+/* aspl_feedback_admintable_admin */
+	
+
+
+/*end aspl_feedback_admintable_admin*/
